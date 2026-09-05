@@ -17,8 +17,8 @@ I'm a BCA student at Shri Ram College, passionate about writing clean code and b
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Streaks
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamudaytyagi&show_icons=true&theme=radical" alt="Uday's GitHub Stats" />
-</p>
+- 💡 **Core Skills:** Python, C, HTML, CSS, PHP
+- 🌱 **Currently Learning:** Advanced Python, Object-Oriented Programming, and Game Development
+- ⚡ **Fun Fact:** I love turning logical problems into working code!
