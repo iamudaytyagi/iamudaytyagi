@@ -19,8 +19,6 @@ I'm a BCA student at Shri Ram College, passionate about writing clean code and b
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamudaytyagi&show_icons=true&theme=radical" alt="Uday's GitHub Stats" />
 </p>
